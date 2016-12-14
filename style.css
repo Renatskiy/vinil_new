@@ -98,6 +98,26 @@ fieldset {
 		box-shadow: 0 0 15px;
 
 }
+input[type='mail']::-webkit-input-placeholder {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+textarea[type='text_input']::-webkit-input-placeholder {
+	font-family: 'Bad Script', cursive;
+	text-align: center;
+
+}
+input[type='phone_input']::-webkit-input-placeholder{
+	font-family: 'Bad Script', cursive;
+	text-align: center;
+}
+input[type='phone_input']{
+	height: 20px;
+
+}
+
+
 button {
 	background-color: #000000;
 	border-color: #bbbbbb;
@@ -109,6 +129,7 @@ a {
 	color: #33cccc;
 
 }
+
 h1 {
 	margin-top: 130px;
 	margin-left: 30px;
