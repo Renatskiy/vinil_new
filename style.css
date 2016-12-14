@@ -18,6 +18,8 @@ font-family: 'Bad Script', cursive;
 	width: 1300px;
 	margin-top: -100px;
 	margin-left: -10px;
+	overflow: auto;
+	background-attachment: fixed;
 }
 .container {
 	height: 1700px;
@@ -26,6 +28,7 @@ font-family: 'Bad Script', cursive;
 	background-size: 150%;
 	margin-top: -50px;
 	margin-left: -10px;
+	overflow: auto;
 
 }
 .blok1 {
@@ -37,8 +40,9 @@ font-family: 'Bad Script', cursive;
 }
 footer{
 	background-color: #000000;
-	margin-top: -50px;
+	margin-top: -70px;
 	margin-left: -10px;
+	width: 500px;
 
 
 }
@@ -101,11 +105,13 @@ fieldset {
 input[type='mail']::-webkit-input-placeholder {
 	font-family: 'Indie Flower', cursive;
 	text-align: center;
+
 }
 
 textarea[type='text_input']::-webkit-input-placeholder {
 	font-family: 'Bad Script', cursive;
 	text-align: center;
+	font-variant: small-caps;
 
 }
 input[type='phone_input']::-webkit-input-placeholder{
