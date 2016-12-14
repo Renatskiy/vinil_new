@@ -1,6 +1,6 @@
 *font-family: 'Indie Flower', cursive;
 
-*font-family: 'EB Garamond', serif;
+font-family: 'EB Garamond', serif;
 font-family: 'Marck Script', cursive;
 font-family: 'Bad Script', cursive;
 
@@ -38,38 +38,23 @@ font-family: 'Bad Script', cursive;
 footer{
 	background-color: #000000;
 	margin-top: -50px;
+	margin-left: 200px;
 
 
 }
 
-button {
-	width: 180px;
-	height: 50px;
-	color: #000000;
-	background-color: #ffffff;
-	box-shadow: 0 0 10px;
-	font-family: Garamond, serif;
-	font-size: 18px;
-	margin-left: 315px;
-	margin-top: 50px;
-	border-radius: 10px;
+.form {
+	margin-left: 100px;
+	font-family: 'Indie Flower', cursive;
+	
+	margin-top: 200px;
 
 }
 fieldset {
-	background-color: #ffffff;
-	box-shadow: 0 0 30px;
-}
-#form{
-	margin left: 300px;
-	width: 180px;
-	height: 50px;
-	color: #000000;
-	background-color: #ffffff;
-	box-shadow: 0 0 10px;
-	font-family: Garamond, serif;
-	font-size: 18px;
-	margin-left: 300px;
-	
+	margin-top: 200px;
+	width: 200px;
+	float: left;
+	margin-left: -510px;
 }
 
 #wowslider-container1 {
@@ -77,13 +62,23 @@ fieldset {
 	float: left;
 	margin-left: 100px;
 }
-#ws_images{
 
+
+.video{
+	margin-left: 100px;
+	margin-top: 300px;
 }
 
 .bar {
-	margin-left: 200px;
+	margin-left: 100px;
 
+}
+.bar_text{
+	margin-top: 50px;
+	margin-left: 30px;
+	color: #ffffff;
+	font-family: 'Bad Script', cursive;
+	float: left;
 }
 .abar{
 		height: 100px;
@@ -97,6 +92,11 @@ fieldset {
 		margin-left: 165px;
 		box-shadow: 0 0 15px;
 
+}
+button {
+	background-color: #000000;
+	border-color: #bbbbbb;
+	width: 142px;
 }
 a {
 	text-decoration: none;
@@ -112,17 +112,15 @@ h1 {
 	
 }
 h2 {
-	margin-top: 100px;
-	margin-left: 30px;
+	
 	color: #ffffff;
 	font-family: 'Bad Script', cursive;
-	float: left;
+
 }
 h4
  {
 	color: #ffffff;
-	font-family: 'Indie Flower', cursive;
-	
+	font-family: 'Bad Script', cursive;	
 }
 h3 {
 	color: #ffffff;
