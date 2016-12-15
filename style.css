@@ -89,6 +89,12 @@ fieldset {
 	font-family: 'Bad Script', cursive;
 	float: left;
 }
+.bar_index{
+	margin-left: -0px;
+	width: 200px;
+	color: red;
+
+}
 .abar{
 		height: 100px;
 		width: 100px;
