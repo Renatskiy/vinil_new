@@ -21,23 +21,9 @@ font-family: 'Bad Script', cursive;
 	overflow: auto;
 	background-attachment: fixed;
 }
-.container {
-	height: 1700px;
-	width: 1300px;
-	background: url(img/fon_color.jpg);
-	background-size: 150%;
-	margin-top: -50px;
-	margin-left: -10px;
-	overflow: auto;
 
-}
-.blok1 {
-	background-color: #ffffff;
-	margin-right: 50px;
-	margin-left: 50px;
-	margin-top: 150px;
-	border-radius: 10px;
-}
+
+
 footer{
 	background-color: #000000;
 	margin-top: -70px;
@@ -52,13 +38,7 @@ footer{
 
 }
 
-.form {
-	margin-left: 100px;
-	font-family: 'Indie Flower', cursive;
-	
-	margin-top: 200px;
 
-}
 fieldset {
 	margin-top: 200px;
 	width: 200px;
@@ -86,7 +66,6 @@ fieldset {
 	margin-top: 50px;
 	margin-left: 30px;
 	color: #ffffff;
-	font-family: 'Bad Script', cursive;
 	float: left;
 }
 .bar_index{
@@ -95,19 +74,7 @@ fieldset {
 	color: red;
 
 }
-.abar{
-		height: 100px;
-		width: 100px;
-		text-align: center;
-		background: url(img/vinil.png);
-		background-size: 100%;
-		line-height: 50px;
-		border-radius: 10px;
-		float: left;
-		margin-left: 165px;
-		box-shadow: 0 0 15px;
 
-}
 input[type='mail']::-webkit-input-placeholder {
 	font-family: 'Indie Flower', cursive;
 	text-align: center;
@@ -153,6 +120,7 @@ h2 {
 
 	color: #ffffff;
 	font-family: 'Bad Script', cursive;
+	
 
 }
 h4
