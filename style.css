@@ -85,15 +85,6 @@ footer{
 
 }
 
-
-}
-/*.bar_text{
-	margin-top: 50px;
-	margin-left: 30px;
-	color: #ffffff;
-	float: left;
-}
-*/
 .bar_index{
 	margin-left: -0px;
 	width: 200px;
@@ -133,11 +124,14 @@ a {
 	font-size: 16px;
 	color: white;
 }
+
+
 a.vinilblack__bar_bar_index:hover{
-	color: red;
+	color: #c9d06c;
 }
+
 a.a_navbar:hover{
-	color: red;
+	color: #c9d06c;
 }
 
 
