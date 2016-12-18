@@ -37,6 +37,14 @@ footer{
 	margin-left: -20px;
 
 }
+#foot_read{
+	margin-left: 50px;
+}
+.read_text{
+	margin-top: 80px;
+	margin-left: 50px;
+	color: #c9d06c;
+}
 .foot_text{
 	margin-top: 100px;
 }
@@ -67,7 +75,9 @@ footer{
 	margin-left: 100px;
 
 }
+.vinilblack__bar__text{
 
+}
 .ul_navbar{
 	list-style-type: none;
 	margin:0;
@@ -95,6 +105,7 @@ footer{
 input[type='mail']::-webkit-input-placeholder {
 	font-family: 'Indie Flower', cursive;
 	text-align: center;
+
 
 }
 
@@ -124,7 +135,38 @@ a {
 	font-size: 16px;
 	color: white;
 }
+.fieldset_order__mail:focus{
+	color: #524E55;
+	display: block;
+	background-color: #c9d06c;
+}
+input.fieldset_contacts__mail:focus{
+	color: #524E55;
+	display: block;
+	background-color: #c9d06c;	
+}
+input.fieldset_contacts__phone:focus{
+	color: #524E55;
+	display: block;
+	background-color: #c9d06c;		
+}
+textarea.fieldset_contacts__info:focus{
+	color: #524E55;
+	display: block;
+	background-color: #c9d06c;	
+}
 
+.fieldset_order__phone:focus{
+	color: #524E55;
+	display: block;
+	background-color: #c9d06c;	
+
+}
+.fieldset_order__info:focus{
+	background-color: #c9d06c;
+	display: block;
+	color: #524E55;
+}
 
 a.vinilblack__bar_bar_index:hover{
 	color: #c9d06c;
